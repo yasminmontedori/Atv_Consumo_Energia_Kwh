@@ -1,13 +1,12 @@
-# Atv_Consumo_Energia_Kwh
-Apresentação do consumo de combustivel em Km
+#Calculadora de gasto com combustível 
 
+#1. Solicita o nome do veiculo 
+veiculo = input("digite o modelo do veiculo: ")
 
-#Nome e objetivo do sistema 
+#2. Solicita o consumo médio (km por litro)
+consumoKml - float(input("digite a distancia media percorrida por dia (km): ))
 
-#Linguagem usada -  Python 
+#3. Solicita a distancia média percorrida por dia (km)
+distanciaDia - float(input("digite o preço do litro do combustível (R$): "))
 
-#Fórmula utilizada para o cálculo
-
-#Instruções para executar o programa 
-
-#Ícones e badges representando as tecnologias - Python, Github, Energia 
+#3.1
