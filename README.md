@@ -1,12 +1,25 @@
-#Calculadora de gasto com combustível 
+consumo-energia/
+├── app.py
+└── README.md
+```
 
-#1. Solicita o nome do veiculo 
-veiculo = input("digite o modelo do veiculo: ")
+## 💡 Exemplo de utilização
 
-#2. Solicita o consumo médio (km por litro)
-consumoKml - float(input("digite a distancia media percorrida por dia (km): ))
+```text
+====================================
+   CALCULADORA DE CONSUMO ELÉTRICO
+====================================
 
-#3. Solicita a distancia média percorrida por dia (km)
-distanciaDia - float(input("digite o preço do litro do combustível (R$): "))
+Digite o nome do aparelho: Geladeira
+Digite a potência do aparelho em watts (W): 150
+Digite o tempo médio de uso diário (horas): 10
 
-#3.1
+---------- RESULTADO ----------
+Aparelho: Geladeira
+Consumo estimado: 45.00 kWh/mês
+Custo estimado: R$ 33.75/mês
+```
+
+## 🌱 Projeto acadêmico
+
+Projeto desenvolvido como atividade de iniciação em tecnologia, com o objetivo de praticar conceitos básicos de **Python, entrada de dados, cálculos, Git e GitHub**.
